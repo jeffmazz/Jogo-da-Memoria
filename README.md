@@ -20,6 +20,8 @@ Um jogo da memória divertido e desafiador, desenvolvido com JavaScript, HTML e 
 
 ## Como Jogar
 
+👉 **[Clique aqui para jogar online!](https://jogo-da-memoria-delta-nine.vercel.app/)**
+
 1. Escolha entre **Modo Clássico** ou **Modo Desafio**.
    - **Modo Clássico:** Sem limite de tempo.
    - **Modo Desafio:** Resolva o jogo antes do tempo acabar.
