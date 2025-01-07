@@ -33,7 +33,7 @@ Um jogo da memória divertido e desafiador, desenvolvido com JavaScript, HTML e 
 1. Clone este repositório:
 
    ```bash
-   [git clone https://github.com/seuusuario/jogo-da-memoria.git](https://github.com/jeffmazz/Jogo-da-Memoria.git)
+   git clone https://github.com/jeffmazz/Jogo-da-Memoria.git
    ```
 
 2. Abra o arquivo `index.html` em seu navegador.
